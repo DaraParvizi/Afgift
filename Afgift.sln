@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afgift", "Afgift\Afgift.csproj", "{8B0D1051-659D-435B-BB2E-F3FAE5B2D2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{CDAE5744-91D4-4DFA-91F5-5B98B07C0A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0D1051-659D-435B-BB2E-F3FAE5B2D2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0D1051-659D-435B-BB2E-F3FAE5B2D2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0D1051-659D-435B-BB2E-F3FAE5B2D2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0D1051-659D-435B-BB2E-F3FAE5B2D2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAE5744-91D4-4DFA-91F5-5B98B07C0A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAE5744-91D4-4DFA-91F5-5B98B07C0A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAE5744-91D4-4DFA-91F5-5B98B07C0A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAE5744-91D4-4DFA-91F5-5B98B07C0A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35ECA99-3F4F-4FC3-8A24-C37E53304639}
+	EndGlobalSection
+EndGlobal
